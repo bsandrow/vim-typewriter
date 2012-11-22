@@ -17,3 +17,8 @@ path. Otherwise, do something like: ::
     mkdir -p ~/.vim/{plugin,audio}
     cp audio/* ~/.vim/audio/
     cp plugin/typewriter.vim ~/.vim/plugin/
+
+Credits
+-------
+I only compiled this from the Reddit thread referenced above, and made a small
+tweak for Linux. Otherwise, all the credit goes to the Redditors that posted.
